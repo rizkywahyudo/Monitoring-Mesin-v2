@@ -1,0 +1,18 @@
+{
+  "name": "Monitoring Mesin CPCM MOI",
+  "short_name": "CPCM MOI",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f2fc",
+  "theme_color": "#7251b5",
+  "description": "Monitoring Maintenance Mesin CPCM Mall Of Indonesia",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
